@@ -106,7 +106,7 @@ Long-distance adoption → Wider appeal for EVs in rural and intercity travel ma
 
 Power BI Desktop → Data visualization & dashboarding
 
-Power Query → Data cleaning & transformation
+SQL → Data cleaning & transformation
 
 DAX Measures → KPIs like EV % by Make, Range Distribution
 
