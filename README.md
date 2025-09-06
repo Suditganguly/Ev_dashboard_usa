@@ -123,3 +123,4 @@ Why it happened (CAFV incentives, utility readiness, consumer preference for BEV
 What could happen next (need for broader adoption, infrastructure scaling, and competition beyond Tesla)
 
 As a data analyst, I identified concentration risks, range limitations, and market dominance issues — and recommended data-driven actions to ensure sustainable, inclusive, and balanced EV growth in the coming years.
+DASHBOARD_VIEW: (https://github.com/Suditganguly/Ev_dashboard_usa/blob/main/EV_Dashboard_USA_2018-2023.png)
